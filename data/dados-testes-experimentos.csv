@@ -1,4 +1,4 @@
-texto;categoria
+input;category
 O que é o coronavírus?;covid
 O que fazer se eu estiver doente?;covid
 Como ocorreram as primeiras infecções humanas pelo novo coronavírus?;covid
@@ -12,7 +12,8 @@ Ao me vacinar estarei completamente imune ao coronavírus?;covid
 A vacina pode me imunizar de todas as mutações do coronavírus?;covid
 O que pode ser considerado um evento adverso normal da vacina?;covid
 Será necessário tomar a vacina todos os anos, como a da gripe?;covid
-Eu estou imunizado logo após tomar a vacina?;covid Posso voltar a frequentar aglomerações?;covid
+Eu estou imunizado logo após tomar a vacina?;covid
+Posso voltar a frequentar aglomerações?;covid
 A pessoa vacinada pode transmitir o vírus?;covid
 Quem serão os primeiros a receber a vacina?;covid
 Quem deve tomar a vacina?;covid
@@ -23,7 +24,8 @@ Após o teste positivo para covid-19, quanto tempo deve-se esperar para tomar a 
 Existe algum tipo de bebida ou comida que não deve ser consumida antes ou depois de tomar a vacina?;covid
 A vacinação é obrigatória?;covid
 Por que eu tenho que tomar duas doses de vacina?;covid
-O que é eficácia global?;covid Por que uma vacina tem diferentes índices de eficácia?;covid
+O que é eficácia global?;covid
+Por que uma vacina tem diferentes índices de eficácia?;covid
 Quando eu for tomar a vacina no SUS, será possível escolher qual?;covid
 Posso tomar todas outras vacinas do calendário vacinal junto com a vacina de Covid-19?;covid
 Posso tomar a primeira dose de uma vacina e a segunda dose de outra?;covid
@@ -33,11 +35,13 @@ Como será o controle das doses aplicadas?;covid
 O SUS tem capacidade de vacinar esse tanto de gente?;covid
 Pessoas com comorbidades precisam de atestado médico com a indicação para vacinação?;covid
 Vou poder comprar a vacina na rede privada?;covid
-Uso emergencial traz risco à saúde?;covid Por que a Anvisa ainda não concedeu registro sanitário?;covid
+Uso emergencial traz risco à saúde?;covid
+Por que a Anvisa ainda não concedeu registro sanitário?;covid
 Os Estados podem vacinar suas populações sem o aval do Ministério da Saúde, desde que a Anvisa já tenha aprovado a vacina?;covid
 Grávida pode tomar vacina?;covid
 Depois que tomar a vacina, posso me sentir protegido e voltar a circular normalmente pelas ruas sem máscara?;covid
-Qual procedimento deve ser adotado caso uma pessoa seja imunizada com vacinas diferentes na primeira e segunda dose?;covid Ela deve receber mais uma dose de uma das vacinas?;covid
+Qual procedimento deve ser adotado caso uma pessoa seja imunizada com vacinas diferentes na primeira e segunda dose?;covid
+Ela deve receber mais uma dose de uma das vacinas?;covid
 Existe risco se uma pessoa tomar vacinas diferentes?;covid
 Qual o tempo de imunidade que as vacinas aplicadas no Brasil (Astrazeneca/Oxford e Sinovac/Butantan) oferecem?;covid
 O que são as novas variantes do SARS-COV2?;covid
