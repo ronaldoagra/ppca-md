@@ -1,3 +1,4 @@
 .idea/
-./code/logs.log
-./logs.log
+code/catboost_info
+code/logs.log
+logs.log
