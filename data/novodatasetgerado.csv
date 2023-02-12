@@ -1,9 +1,11 @@
+input;category
 O que é tuberculose e como ela é transmitida?;tuberculose
 Quais são os sintomas da tuberculose e como ela é diagnosticada?;tuberculose
 Quais são os tratamentos disponíveis para a tuberculose e como eles funcionam?;tuberculose
 Qual é a relação entre tuberculose e HIV?;tuberculose
 Como a tuberculose afeta os pulmões e outros órgãos do corpo?;tuberculose
-A tuberculose tem cura?;tuberculose E se sim, por que é considerada uma doença grave?;tuberculose
+A tuberculose tem cura?;tuberculose
+E se sim, por que é considerada uma doença grave?;tuberculose
 Como a tuberculose é tratada em diferentes países e regiões do mundo?;tuberculose
 Quais são os principais desafios no controle da tuberculose a nível global?;tuberculose
 Como a vacina BCG ajuda na prevenção da tuberculose?;tuberculose
@@ -430,7 +432,7 @@ Como a COVID-19 é transmitida?;covid
 Quais são os sintomas da COVID-19?;covid
 Como a COVID-19 é diagnosticada?;covid
 Qual é o tratamento para a COVID-19?;covid
-A COVID-19 pode ser prevenida?;covid Se sim, como?;covid
+A COVID-19 pode ser prevenida? Se sim, como?;covid
 Quem está mais propenso a contrair a COVID-19?;covid
 Quais são as implicações a longo prazo da COVID-19?;covid
 Como a COVID-19 afeta a economia global?;covid
@@ -623,7 +625,7 @@ Quais são os sintomas da tunberculosi e como ela é diagnosticada?;tuberculose
 Quais são os tratamentos disponíveis para a tunberculosi e como eles funcionam?;tuberculose
 Qual é a relação entre tunberculosi e HIV?;tuberculose
 Como a tunberculosi afeta os pulmões e outros órgãos do corpo?;tuberculose
-A tunberculosi tem cura?;tuberculose E se sim, por que é considerada uma doença grave?;tuberculose
+A tunberculosi tem cura? E se sim, por que é considerada uma doença grave?;tuberculose
 Como a tunberculosi é tratada em diferentes países e regiões do mundo?;tuberculose
 Quais são os principais desafios no controle da tunberculosi a nível global?;tuberculose
 Como a vacina BCG ajuda na prevenção da tunberculosi?;tuberculose
@@ -1050,7 +1052,7 @@ Como a convid-19 é transmitida?;covid
 Quais são os sintomas da convid-19?;covid
 Como a convid-19 é diagnosticada?;covid
 Qual é o tratamento para a convid-19?;covid
-A convid-19 pode ser prevenida?;covid Se sim, como?;covid
+A convid-19 pode ser prevenida? Se sim, como?;covid
 Quem está mais propenso a contrair a convid-19?;covid
 Quais são as implicações a longo prazo da convid-19?;covid
 Como a convid-19 afeta a economia global?;covid
@@ -1243,7 +1245,7 @@ Quais são os sintomas da tuberculosi e como ela é diagnosticada?;tuberculose
 Quais são os tratamentos disponíveis para a tuberculosi e como eles funcionam?;tuberculose
 Qual é a relação entre tuberculosi e HIV?;tuberculose
 Como a tuberculosi afeta os pulmões e outros órgãos do corpo?;tuberculose
-A tuberculosi tem cura?;tuberculose E se sim, por que é considerada uma doença grave?;tuberculose
+A tuberculosi tem cura? E se sim, por que é considerada uma doença grave?;tuberculose
 Como a tuberculosi é tratada em diferentes países e regiões do mundo?;tuberculose
 Quais são os principais desafios no controle da tuberculosi a nível global?;tuberculose
 Como a vacina BCG ajuda na prevenção da tuberculosi?;tuberculose
@@ -1670,7 +1672,7 @@ Como a covide-19 é transmitida?;covid
 Quais são os sintomas da covide-19?;covid
 Como a covide-19 é diagnosticada?;covid
 Qual é o tratamento para a covide-19?;covid
-A covide-19 pode ser prevenida?;covid Se sim, como?;covid
+A covide-19 pode ser prevenida? Se sim, como?;covid
 Quem está mais propenso a contrair a covide-19?;covid
 Quais são as implicações a longo prazo da covide-19?;covid
 Como a covide-19 afeta a economia global?;covid
@@ -1863,7 +1865,7 @@ O que são os sintomas da tuberculose e como ela é diagnosticada?;tuberculose
 O que são os tratamentos disponíveis para a tuberculose e como eles funcionam?;tuberculose
 O que é a relação entre tuberculose e HIV?;tuberculose
 Por que a tuberculose afeta os pulmões e outros órgãos do corpo?;tuberculose
-A tuberculose tem cura?;tuberculose E se sim, por que é considerada uma doença grave?;tuberculose
+A tuberculose tem cura? E se sim, por que é considerada uma doença grave?;tuberculose
 Por que a tuberculose é tratada em diferentes países e regiões do mundo?;tuberculose
 O que são os principais desafios no controle da tuberculose a nível global?;tuberculose
 Por que a vacina BCG ajuda na prevenção da tuberculose?;tuberculose
@@ -2290,7 +2292,7 @@ Por que a COVID-19 é transmitida?;covid
 O que são os sintomas da COVID-19?;covid
 Por que a COVID-19 é diagnosticada?;covid
 O que é o tratamento para a COVID-19?;covid
-A COVID-19 pode ser prevenida?;covid Se sim, como?;covid
+A COVID-19 pode ser prevenida? Se sim, como?;covid
 Quem está mais propenso a contrair a COVID-19?;covid
 O que são as implicações a longo prazo da COVID-19?;covid
 Por que a COVID-19 afeta a economia global?;covid
@@ -2483,7 +2485,7 @@ O que são os sintomas da tunberculosi e como ela é diagnosticada?;tuberculose
 O que são os tratamentos disponíveis para a tunberculosi e como eles funcionam?;tuberculose
 O que é a relação entre tunberculosi e HIV?;tuberculose
 Por que a tunberculosi afeta os pulmões e outros órgãos do corpo?;tuberculose
-A tunberculosi tem cura?;tuberculose E se sim, por que é considerada uma doença grave?;tuberculose
+A tunberculosi tem cura? E se sim, por que é considerada uma doença grave?;tuberculose
 Por que a tunberculosi é tratada em diferentes países e regiões do mundo?;tuberculose
 O que são os principais desafios no controle da tunberculosi a nível global?;tuberculose
 Por que a vacina BCG ajuda na prevenção da tunberculosi?;tuberculose
@@ -2910,7 +2912,7 @@ Por que a convid-19 é transmitida?;covid
 O que são os sintomas da convid-19?;covid
 Por que a convid-19 é diagnosticada?;covid
 O que é o tratamento para a convid-19?;covid
-A convid-19 pode ser prevenida?;covid Se sim, como?;covid
+A convid-19 pode ser prevenida? Se sim, como?;covid
 Quem está mais propenso a contrair a convid-19?;covid
 O que são as implicações a longo prazo da convid-19?;covid
 Por que a convid-19 afeta a economia global?;covid
@@ -3103,7 +3105,7 @@ O que são os sintomas da tuberculosi e como ela é diagnosticada?;tuberculose
 O que são os tratamentos disponíveis para a tuberculosi e como eles funcionam?;tuberculose
 O que é a relação entre tuberculosi e HIV?;tuberculose
 Por que a tuberculosi afeta os pulmões e outros órgãos do corpo?;tuberculose
-A tuberculosi tem cura?;tuberculose E se sim, por que é considerada uma doença grave?;tuberculose
+A tuberculosi tem cura? E se sim, por que é considerada uma doença grave?;tuberculose
 Por que a tuberculosi é tratada em diferentes países e regiões do mundo?;tuberculose
 O que são os principais desafios no controle da tuberculosi a nível global?;tuberculose
 Por que a vacina BCG ajuda na prevenção da tuberculosi?;tuberculose
@@ -3530,7 +3532,7 @@ Por que a covide-19 é transmitida?;covid
 O que são os sintomas da covide-19?;covid
 Por que a covide-19 é diagnosticada?;covid
 O que é o tratamento para a covide-19?;covid
-A covide-19 pode ser prevenida?;covid Se sim, como?;covid
+A covide-19 pode ser prevenida? Se sim, como?;covid
 Quem está mais propenso a contrair a covide-19?;covid
 O que são as implicações a longo prazo da covide-19?;covid
 Por que a covide-19 afeta a economia global?;covid

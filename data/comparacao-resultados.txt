@@ -1,0 +1,89 @@
+Tempo de treino: 0.00000 segundos
+Tempo médio de inferência: 0.00007 segundos
+              precision    recall  f1-score   support
+
+           0       0.74      0.79      0.77        72
+           1       0.95      0.94      0.95       178
+           2       0.80      0.77      0.78        86
+
+    accuracy                           0.87       336
+   macro avg       0.83      0.83      0.83       336
+weighted avg       0.87      0.87      0.87       336
+
+
+#########  10000 registros.
+Tempo médio de inferência: 0.00001 segundos
+              precision    recall  f1-score   support
+
+           0       0.42      0.35      0.38      3072
+           1       0.73      0.79      0.76      3296
+           2       0.60      0.65      0.63      3632
+
+    accuracy                           0.60     10000
+   macro avg       0.58      0.59      0.59     10000
+weighted avg       0.59      0.60      0.59     10000
+
+
+#########  50000 registros.
+Tempo médio de inferência: 0.00001 segundos
+              precision    recall  f1-score   support
+
+           0       0.43      0.34      0.38     15495
+           1       0.73      0.78      0.76     16686
+           2       0.60      0.66      0.63     17819
+
+    accuracy                           0.60     50000
+   macro avg       0.58      0.59      0.59     50000
+weighted avg       0.59      0.60      0.59     50000
+
+
+#########  100000 registros.
+Tempo médio de inferência: 0.00002 segundos
+              precision    recall  f1-score   support
+
+           0       0.43      0.35      0.38     30989
+           1       0.73      0.78      0.76     33372
+           2       0.60      0.66      0.63     35639
+
+    accuracy                           0.60    100000
+   macro avg       0.59      0.60      0.59    100000
+weighted avg       0.59      0.60      0.59    100000
+
+
+#########  250000 registros.
+Tempo médio de inferência: 0.00002 segundos
+              precision    recall  f1-score   support
+
+           0       0.43      0.35      0.38     77568
+           1       0.73      0.78      0.76     83333
+           2       0.60      0.66      0.63     89099
+
+    accuracy                           0.60    250000
+   macro avg       0.59      0.60      0.59    250000
+weighted avg       0.59      0.60      0.59    250000
+
+
+#########  500000 registros.
+Tempo médio de inferência: 0.00002 segundos
+              precision    recall  f1-score   support
+
+           0       0.43      0.35      0.38    155327
+           1       0.73      0.78      0.76    166654
+           2       0.60      0.66      0.63    178019
+
+    accuracy                           0.60    500000
+   macro avg       0.59      0.60      0.59    500000
+weighted avg       0.59      0.60      0.59    500000
+
+
+#########  1000000 registros.
+Tempo médio de inferência: 0.00002 segundos
+              precision    recall  f1-score   support
+
+           0       0.43      0.35      0.38    310653
+           1       0.73      0.78      0.76    333308
+           2       0.60      0.66      0.63    356039
+
+    accuracy                           0.60   1000000
+   macro avg       0.59      0.60      0.59   1000000
+weighted avg       0.59      0.60      0.59   1000000
